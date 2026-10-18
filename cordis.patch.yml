@@ -1,0 +1,4 @@
+# dsh-ths-dashboard bundle patch
+- insert:
+    - id: dsh-ths-dashboard
+      name: dsh-ths-dashboard
